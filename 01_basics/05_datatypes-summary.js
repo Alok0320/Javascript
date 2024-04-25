@@ -29,7 +29,7 @@ const bigNumber = 79840493366677n
 // Reference (Non-primitive) 
 
 // Array, Objects, Functions
-// If we want to master JS we have to master Objects and browser's browser or web event 
+// If we want to master JS we have to master Objects and web event 
 
 // Arrays
   const heros = ["shaktiman", "naagraj", "doga"]
