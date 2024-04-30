@@ -6,7 +6,7 @@
 const arr = [1, 2, 3, 4, 5]
 
 for (const num of arr) {
- //   console.log(num);
+     console.log(num);
 }
 
 const greetings = "Hello world!"
@@ -20,16 +20,16 @@ const map = new Map()
 map.set('IN', "India")
 map.set('USA', "United States of America")
 map.set('Fr', "France")
-map.set('IN', "India")  // will not take same value
+map.set('IN', "India")  // will not count same values
 
 // console.log(map);
 
 for (const key of map) {
-    // console.log(key);
+     console.log(key);
 }
 
 for (const [key, value] of map) { // destructure of array
-    // console.log(key, ':-', value);
+    console.log(key, ':-', value);
 }
 
 // for of loop on object
